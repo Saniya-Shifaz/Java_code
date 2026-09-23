@@ -1,4 +1,4 @@
-package tns.java_code;
+package java_code;
 
 public class BreakDemo {
 	public static void main(String[] args) {
