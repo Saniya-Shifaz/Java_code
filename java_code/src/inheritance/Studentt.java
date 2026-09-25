@@ -11,7 +11,7 @@ public class Studentt extends Person {
 	}
 	
 	public Studentt(String name,String city,String clas, float perc) {
-		super(name,city);
+		super();
 		this.clas = clas;
 		this.perc = perc;
 	}
